@@ -1,0 +1,1 @@
+This application divides the input file into smaller chunks. The chunks are read and written to an output file.
